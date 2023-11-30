@@ -11,14 +11,25 @@ Installation
 Linux - Termux
 
 $ apt update -y && apt upgrade -y
+
 $ pkg install git python-pip 
+
 $ pip install stdiomask
+
 $ pip install requests
+
 $ pip install bs4
+
 $ pip install mechanize
+
 $ pip install stdiomask
+
 $ pip install rich
+
 $ git clone https://github.com/Rosmontis-Chan/KittenFB
+
 $ git pull
+
 $ cd KittenFB
+
 $ python RosmontisFB.py
